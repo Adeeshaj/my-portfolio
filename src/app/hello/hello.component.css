@@ -1,0 +1,18 @@
+canvas {
+  background-color: rgb(24, 22, 22);
+}
+
+.home-text{
+  font-family: 'Courier New', Courier, monospace;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.flex {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
